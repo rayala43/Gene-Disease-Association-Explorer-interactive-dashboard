@@ -1,0 +1,31 @@
+rsid,gene,chromosome,position,ref,alt,condition,clinical_significance,allele_freq,odds_ratio,p_value,mechanism,pubmed_id,phenotype_detail
+rs7903146,TCF7L2,10,114758349,C,T,Type 2 Diabetes,Risk Factor,0.30,1.37,1.2e-49,Impaired incretin effect,17293463,T2D strongest GWAS signal
+rs1801282,PPARG,3,12393125,C,G,Type 2 Diabetes,Likely Pathogenic,0.12,1.25,3.0e-18,Reduced insulin sensitivity,10545951,Pro12Ala variant
+rs5215,KCNJ11,11,17388025,A,G,Type 2 Diabetes,Pathogenic,0.45,1.15,2.0e-12,Beta-cell ATP-sensitive K+ channel,15781101,E23K variant
+rs1799884,GCK,7,44184961,C,T,Type 2 Diabetes,Pathogenic,0.22,1.28,5.0e-15,Glucokinase regulatory defect,9039267,MODY2 associated
+rs1169288,HNF1A,12,121416650,A,C,Type 2 Diabetes,Pathogenic,0.35,1.07,4.0e-10,Transcription factor defect,17855067,MODY3 associated
+rs9465871,CDKN2A,9,22125503,C,T,Type 2 Diabetes,Risk Factor,0.53,1.20,8.0e-15,Reduced beta-cell proliferation,17460697,9p21 locus
+rs4402960,IGF2BP2,3,185511687,T,G,Type 2 Diabetes,Risk Factor,0.29,1.14,3.0e-15,Impaired insulin secretion,17293467,T2D GWAS hit
+rs13266634,SLC30A8,8,118253964,C,T,Type 2 Diabetes,Risk Factor,0.75,1.12,5.0e-14,Zinc transporter in beta-cells,17293464,R325W variant
+rs1111875,HHEX,10,94452862,C,T,Type 2 Diabetes,Risk Factor,0.56,1.13,3.0e-11,Homeodomain transcription factor,17293462,HHEX-IDE locus
+rs10811661,CDKN2B,9,22134094,T,C,Type 2 Diabetes,Risk Factor,0.79,1.20,1.0e-13,Cell cycle regulation,17293467,CDKN2A/B locus
+rs11708067,ADCY5,3,123060502,A,G,Type 2 Diabetes,Risk Factor,0.78,1.12,1.0e-11,Adenylate cyclase in beta-cells,20581827,T2D GWAS
+rs780094,GCKR,2,27741237,C,T,Type 2 Diabetes,Risk Factor,0.40,1.06,2.0e-8,Glucokinase regulatory protein,17293462,Fasting glucose
+rs10830963,MTNR1B,11,92348358,C,G,Type 2 Diabetes,Risk Factor,0.29,1.09,3.0e-22,Melatonin receptor beta-cell,19060910,Fasting glucose GWAS
+rs1387153,MTNR1B,11,92373544,T,C,Type 2 Diabetes,Risk Factor,0.27,1.15,2.0e-20,Melatonin receptor signaling,19060910,Prediabetes risk
+rs4607517,GCK,7,44190798,A,G,Type 2 Diabetes,Risk Factor,0.19,1.07,4.0e-9,Glucokinase enzyme activity,17293467,Fasting glucose locus
+rs429358,APOE,19,44908684,T,C,Coronary Artery Disease,Pathogenic,0.15,1.42,3.0e-30,Impaired LDL clearance,21738483,APOE e4 allele
+rs562556,PCSK9,1,55505647,A,G,Coronary Artery Disease,Pathogenic,0.23,1.38,5.0e-28,Increased LDL-C levels,15654334,PCSK9 gain-of-function
+rs3798220,LPA,6,161010118,C,T,Coronary Artery Disease,Pathogenic,0.03,1.92,1.0e-25,Elevated Lp(a) levels,19106084,LPA kringle IV
+rs1042031,APOB,2,21044257,G,A,Coronary Artery Disease,Likely Pathogenic,0.08,1.29,2.0e-18,Defective ApoB-100,11073740,Familial defective ApoB
+rs2228671,LDLR,19,11089475,C,T,Coronary Artery Disease,Pathogenic,0.05,1.85,3.0e-22,LDL receptor dysfunction,9390937,Familial hypercholesterolemia
+rs3764261,CETP,16,56993324,A,C,Coronary Artery Disease,Risk Factor,0.31,0.85,4.0e-20,Raised HDL-C,18193043,CETP inhibitor target
+rs2072183,NPC1L1,7,44584559,C,G,Coronary Artery Disease,Risk Factor,0.27,1.14,6.0e-10,Cholesterol absorption,17634449,Ezetimibe target
+rs12916,HMGCR,5,74656539,T,C,Coronary Artery Disease,Risk Factor,0.42,0.94,2.0e-9,Statin target gene,17634449,HMG-CoA reductase
+rs3184504,SH2B3,12,111884608,C,T,Coronary Artery Disease,Risk Factor,0.47,1.13,2.0e-15,Platelet aggregation,19198612,JAK2 signaling
+rs1333049,CDKN2B,9,22125504,C,G,Coronary Artery Disease,Risk Factor,0.45,1.29,1.0e-20,Vascular smooth muscle,17478679,9p21.3 hotspot
+rs11187549,CENPW,6,170810879,T,C,Coronary Artery Disease,Risk Factor,0.54,1.08,5.0e-8,Centromere protein,26343387,CAD GWAS
+rs17114036,APOB,2,21231524,T,A,Coronary Artery Disease,Likely Pathogenic,0.06,1.33,7.0e-14,ApoB truncation,9390937,Hypobetalipoproteinemia
+rs646776,CELSR2,1,109274569,T,C,Coronary Artery Disease,Risk Factor,0.78,1.17,3.0e-15,LDL-C regulation,19198609,SORT1-CELSR2 locus
+rs2954029,TRIB1,8,126492844,T,A,Coronary Artery Disease,Risk Factor,0.45,1.10,2.0e-10,Triglyceride metabolism,20864672,TG and LDL-C
+rs174547,FADS1,11,61553520,T,C,Coronary Artery Disease,Risk Factor,0.33,1.09,4.0e-9,Fatty acid desaturation,19060911,Omega-3 metabolism
