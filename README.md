@@ -119,7 +119,3 @@ gene_explorer/
 Built from real-world clinical genomics experience processing patient VCF files, gene–disease associations, and generating clinical visualizations at GenepoweRx. All rsIDs, odds ratios, and p-values are sourced from peer-reviewed GWAS studies and ClinVar records.
 
 ---
-
-## License
-
-MIT
